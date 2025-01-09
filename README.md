@@ -9,7 +9,7 @@ sector entities, including the **United Nations System**.
 
 - **Problem-Solving**: Proposing innovative solutions like a platform offering
   gigs and training for refugees to enhance their skills and livelihoods.  
-- **Collaboration**: Passionate to work in diverse, cross-functional teams to 
+- **Collaboration**: Passionate to work in diverse, cross-functional teams to  
   deliver impactful projects.  
 - **Documentation**: Meticulous documenting & sharing knowledge to empower teams
 and communities.
